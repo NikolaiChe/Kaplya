@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Kaplya:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Kaplya_jar</output-path>
+    <root id="archive" name="Kaplya.jar">
+      <element id="module-output" name="Kaplya" />
+    </root>
+  </artifact>
+</component>
